@@ -1,0 +1,37 @@
+header{
+    background-color: rgb(110, 110, 255);
+    text-align: center;
+    border-bottom: 4px solid blue;
+}
+h1{
+    color: white;
+}
+p{
+    color: rgb(147, 147, 147);
+}
+div{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+    border-bottom: 4px solid blue;
+    border-top: 4px solid blue;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
+div{
+    text-align: center;
+}
+h3{
+    color: rgb(66, 0, 128);
+}
+.T1{
+    color: rgb(40, 40, 40);
+}
+button{
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+}
